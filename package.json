@@ -1,0 +1,21 @@
+{
+  "name": "parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.7.1",
+    "express": "^4.14.0",
+    "fast-csv": "^2.0.0",
+    "line-reader": "^0.4.0",
+    "lodash": "^4.13.1",
+    "mongoose": "^4.5.3",
+    "require-all": "^2.0.0",
+    "yargs": "^4.7.1"
+  }
+}
